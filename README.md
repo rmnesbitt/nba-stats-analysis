@@ -34,6 +34,9 @@ I collected game data from the NBA for both regular season and playoff games. Th
 - Informative plot graphs were created to visualize team performance and clustering based on regular season statistics using PCA (Principal Component Analysis).
 - Clusters of teams were identified, and the plots were annotated with team names to provide a clear visualization of their performance.
 
+![Example Visualization from 2014 Season](Data Visualization/2014.png)
+
+
 ## Results
 
 The models demonstrated good performance in predicting playoff participation and championship wins. Below are the key metrics from the model evaluation:
