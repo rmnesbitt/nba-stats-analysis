@@ -32,9 +32,9 @@ I collected game data from the NBA for both regular season and playoff games. Th
 ### Data Visualization
 - The data parsing and visualization script parsed data from the tables of average statistics.
 - Informative plot graphs were created to visualize team performance and clustering based on regular season statistics using PCA (Principal Component Analysis).
-- Clusters of teams were identified, and the plots were annotated with team names to provide a clear visualization of their performance.
+- Clusters of teams were identified, and the plots were annotated with team names to provide a clear visualization of their performance. '*Blue denotes participation in the playoffs. Red denotes winners*'
 
-![Example Visualization from 2014 Season](Data Visualization/2014.png)
+![Example Visualization from 2014 Season](Data%20Visualization/2014.png)
 
 
 ## Results
