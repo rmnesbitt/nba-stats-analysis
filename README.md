@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to predict NBA playoff participation and championship wins based on regular season statistics. By leveraging historical game data, we have developed machine learning models that provide insights into a team's chances of making the playoffs and winning the championship.
+This project aims to predict NBA playoff participation and championship wins based on regular season statistics. By leveraging historical game data, I have developed machine learning models that provide insights into a team's chances of making the playoffs and winning the championship.
 
 ## Data Collection and Preparation
 
@@ -67,14 +67,14 @@ The models demonstrated good performance in predicting playoff participation and
 
 ## Insights and Predictions
 
-Using the trained models, we can predict the probability of playoff participation and championship wins for teams based on their regular season statistics. For example, given the regular season stats for a new team, the models can output:
+Using the trained models, the predictability of playoff participation is highly likely but the same can not be said for championship wins based solely on the teams regular season stats. For example, given the regular season stats for a new team, the models can output:
 
 - **Playoff Probability**: 99.99%
 - **Championship Win Probability**: 41.00%
 
 ## Visualization
 
-To visualize the clustering of teams based on their regular season stats, we performed PCA (Principal Component Analysis) and plotted the results. Teams were clustered into groups, and the plot annotated with team names provides a clear visualization of their performance. Blue names denote participants in the playoffs, and the red name denotes the winner of the playoffs.
+To visualize the clustering of teams based on their regular season stats, I performed PCA (Principal Component Analysis) and plotted the results. Teams were clustered into groups, and the plot annotated with team names provides a clear visualization of their performance. Blue names denote participants in the playoffs and red name denotes championship winner.  
 
 ## Code Implementation
 
